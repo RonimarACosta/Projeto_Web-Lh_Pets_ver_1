@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "kCeq1kddFB5O8otE4HInevxzcCXbaBpyj1XeYofhTe0=",
+  "Source": "Projeto_web-Lh_Pets_ver_1",
+  "BasePath": "_content/Projeto_web-Lh_Pets_ver_1",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto_web-Lh_Pets_ver_1\\wwwroot",
+      "Source": "Projeto_web-Lh_Pets_ver_1",
+      "ContentRoot": "C:\\Exercicios_Senai\\Projeto_web-Lh_Pets_ver_1\\wwwroot\\",
+      "BasePath": "_content/Projeto_web-Lh_Pets_ver_1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Exercicios_Senai\\Projeto_web-Lh_Pets_ver_1\\wwwroot\\index.html",
+      "SourceId": "Projeto_web-Lh_Pets_ver_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Exercicios_Senai\\Projeto_web-Lh_Pets_ver_1\\wwwroot\\",
+      "BasePath": "_content/Projeto_web-Lh_Pets_ver_1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
